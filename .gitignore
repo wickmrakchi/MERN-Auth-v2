@@ -11,3 +11,6 @@
 /client/node_modules
 /client/yarn.lock
 /client/package-lock.json
+/client/.gitignore
+/client/README.md
+/client/public
